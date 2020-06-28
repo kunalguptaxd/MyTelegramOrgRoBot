@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi!
-If You want Any Help So DM @MrJetex
+please read the TnC before proceeding: https://t.me/SpEcHlDe/889
 Thank you for using me 😬
 Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 
